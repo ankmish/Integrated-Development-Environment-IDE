@@ -1,2 +1,3 @@
 # Integrated-Development-Environment-IDE-
-Text Editor along with the compiler for C,C++,Java code
+Better IDE with improved GUI for C,C++ and Java.
+Still working to add more langauge to it
